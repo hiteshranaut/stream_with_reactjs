@@ -1,0 +1,26 @@
+{
+  "streams": [
+    {
+      "title": "fsd",
+      "description": "fsdfs",
+      "id": 1
+    },
+    {
+      "title": "ew stream",
+      "description": "newnwe",
+      "id": 2
+    },
+    {
+      "title": "dsfsdf",
+      "description": "sfsdf",
+      "userId": "114684105076980331659",
+      "id": 3
+    },
+    {
+      "title": "this is new",
+      "description": "this is new desc",
+      "userId": "114684105076980331659",
+      "id": 4
+    }
+  ]
+}
